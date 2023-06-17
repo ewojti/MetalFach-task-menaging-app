@@ -1,0 +1,31 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$--ff-inter: "Inter", sans-serif;
+$--ff-lato: 'Lato', sans-serif;
+$--ff-cormorant: "Cormorant", serif;
+
+$--fw-thin: 100;
+$--fw-extraLight: 200;
+$--fw-light: 300;
+$--fw-regular: 400;
+$--fw-medium: 500;
+$--fw-semiBold: 400;
+$--fw-bold: 700;
+$--fw-extraBold: 800;
+$--fw-black: 900;
+
+$--clr-black: #2d2d2d;
+$--clr-grey: #9f9f9f;
+$--clr-light: #ffffff;
+$--clr-red: #A7272A;
+
+$--fs-h1: 3.7rem;
+$--fs-h2: 2.7rem;
+$--fs-h3: 1.8rem;
+$--fs-h4: 0.8rem;
+$--fs-body: 1.5rem;
+
+$--fs-h1-mobile: 3.3rem;
+$--fs-h2-mobile: 2rem;
+$--fs-h3-mobile: 1.6rem;
+$--fs-body-mobile: 1.2rem;
